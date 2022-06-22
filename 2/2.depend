@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655915489 source:c:\users\lucas\documents\github\processo-seletivo-target\2\main.c
+	<stdio.h>
+	<stdlib.h>
+
